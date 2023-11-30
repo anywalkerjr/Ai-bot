@@ -10,6 +10,7 @@ keras = "*"
 requests = "*"
 tensorflow = "*"
 pillow = "*"
+discord = "*"
 
 [dev-packages]
 
