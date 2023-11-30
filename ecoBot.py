@@ -75,8 +75,6 @@ async def гриб(ctx):
 #     member = ctx.message.author
 #     role = get(member.server.roles, name="Эко-отличник")
 #    await ctx.reply(f'{ctx.author.mention}, Вы решили пройти квиз по экологии. Если вы ответите на все вопросы правильно, то получите роль {role}')
-#    for answers in range(0,10):
-#        await ctx.reply()
     
 
 bot.run(settings["TOKEN"])
